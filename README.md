@@ -1,2 +1,1 @@
-# SlotMachine.py
-A slot machine game project for learning basic python concepts
+print("Hello! This is a repository of my personal python projects")
